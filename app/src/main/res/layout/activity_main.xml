@@ -191,7 +191,7 @@
                     android:text="Hasil akan muncul di sini..."
                     android:paddingStart="5dp"
                     android:paddingTop="5dp"
-                    android:paddingBottom="150dp"/>
+                    android:paddingBottom="5dp"/>
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
